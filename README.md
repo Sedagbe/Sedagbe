@@ -7,8 +7,8 @@
 
 <!-- PRESENTATION -->
 <p align="center">
-  🎓 <b>Étudiant en Cybersécurité, Réseaux Informatiques & IA</b><br>
-  🛠️ <i>Ancien technicien en électronique & maintenance d'équipements hospitaliers au Bénin</i><br>
+   <b>Étudiant en Cybersécurité, Réseaux Informatiques & IA</b><br>
+  <i>Ancien technicien en électronique & maintenance d'équipements hospitaliers au Bénin</i><br>
   Passionné par la conception, l'interconnexion et la sécurisation d'infrastructures résilientes.<br>
   🎯 <b>Objectif :</b> Architecte Réseaux & Sécurité.
 </p>
@@ -16,7 +16,7 @@
 <br>
 
 <!-- TECH STACK -->
-<h3 align="center">Technology Stack 🔪</h3>
+<h3 align="center">Technology Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=Wireshark&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 
 
-### 📬 Me contacter
+###  Me contacter
 
 <p align="center">
   <a href="https://linkedin.com/in/kenneth-oussou-lio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
