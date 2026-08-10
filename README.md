@@ -3,11 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=200&section=header&text=Hi,%20I'm%20Kenneth%20SEDAGBE&fontSize=38&fontColor=ff79c6&animation=twinkling" width="100%" alt="Header Banner"/>
 </p>
 
-<!-- BADGES DE COMPTEURS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sedagbe&color=brightgreen&style=flat-square&label=Profile+Visits" alt="Profile Visits"/>
-  <img src="https://img.shields.io/github/followers/Sedagbe?style=flat-square&color=blue&label=Followers" alt="Followers"/>
-</p>
+
 
 <!-- PRESENTATION -->
 <p align="center">
