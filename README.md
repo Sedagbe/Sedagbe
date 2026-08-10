@@ -29,19 +29,7 @@
 
 <br>
 
-<!-- STATISTIQUES GITHUB -->
-<h3 align="center">My Github Stats 🦉</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sedagbe&show_icons=true&theme=synthwave&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sedagbe&layout=compact&theme=synthwave&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sedagbe&theme=synthwave&hide_border=false" width="96%" />
-</p>
-
----
 
 ### 📬 Me contacter
 
