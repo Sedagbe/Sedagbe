@@ -6,11 +6,12 @@
 
 
 <!-- PRESENTATION -->
+<!-- PRESENTATION -->
 <p align="center">
-   <b>Étudiant en Cybersécurité, Réseaux Informatiques & IA</b><br>
-  <i>Ancien technicien en électronique & maintenance d'équipements hospitaliers au Bénin</i><br>
-  Passionné par la conception, l'interconnexion et la sécurisation d'infrastructures résilientes.<br>
-  🎯 <b>Objectif :</b> Architecte Réseaux & Sécurité.
+  Bonjour et bienvenue ! 👋<br><br>
+  Je m'appelle <b>Kenneth OUSSOU LIO</b>. Étudiant en <b>Cybersécurité, Réseaux & IA</b>, je suis un véritable passionné d'architecture réseau.<br><br>
+  Ce que j'aime par-dessus tout ? Imaginer des topologies, connecter des systèmes entre eux et résoudre des casse-têtes techniques. Passer des heures sur Cisco Packet Tracer à concevoir des infrastructures est devenu une vraie seconde nature.<br><br>
+  Mon objectif est simple : concevoir des réseaux d'entreprise performants, sûrs et résilients, pour évoluer sereinement vers le métier d'<b>Architecte Réseaux & Sécurité</b>.
 </p>
 
 <br>
