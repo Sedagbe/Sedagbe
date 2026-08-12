@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=180&section=header&text=Kenneth%20OUSSOU%20LIO&fontSize=32&fontColor=ff79c6&animation=twinkling" width="100%" alt="Bannière"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sedagbe&color=brightgreen&style=flat-square&label=Profile+Visits" alt="Visites"/>
-  <img src="https://img.shields.io/github/followers/Sedagbe?style=flat-square&color=blue&label=Followers" alt="Followers"/>
-</p>
 
 ---
 
@@ -42,11 +38,6 @@ Mon objectif est simple : concevoir des réseaux d'entreprise performants, sûrs
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<br>
-
-
-
-<br>
 
 <!-- ME CONTACTER -->
 <h3 align="center">📬 Me contacter</h3>
