@@ -22,9 +22,9 @@ Mon objectif est simple : concevoir des réseaux d'entreprise performants, sûrs
 
 ---
 
-<!-- ANIMATION ÉCHANGE DE PAQUETS RÉSEAU -->
+<!-- ANIMATION TERMINAL RÉSEAU (SOLUTION 3) -->
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/021/811/352/original/line-animation.gif?1573038622" width="300" alt="Animation Réseau"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=PING+192.168.1.1+(ICMP+Echo+Request)...;200+OK+:+Packet+transmitted+successfully!;Securing+Network+Architecture...;Configuring+Cisco+Routers+%26+pfSense..." alt="Terminal Réseau Animé" />
 </p>
 
 <br>
