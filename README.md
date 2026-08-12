@@ -1,37 +1,35 @@
 <!-- BANNIÈRE D'ENTÊTE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=200&section=header&text=Hi,%20I'm%20Kenneth%20OUSSOU%20LIO&fontSize=34&fontColor=ff79c6&animation=twinkling" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=180&section=header&text=Kenneth%20OUSSOU%20LIO&fontSize=32&fontColor=ff79c6&animation=twinkling" width="100%" alt="Bannière"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sedagbe&color=brightgreen&style=flat-square&label=Profile+Visits" alt="Profile Visits"/>
+  <img src="https://komarev.com/ghpvc/?username=Sedagbe&color=brightgreen&style=flat-square&label=Profile+Visits" alt="Visites"/>
   <img src="https://img.shields.io/github/followers/Sedagbe?style=flat-square&color=blue&label=Followers" alt="Followers"/>
 </p>
 
-<!-- PRESENTATION (TEXTE JUSTIFIÉ) -->
-<div align="justify">
-  <p>
-    Bonjour et bienvenue ! 👋
-  </p>
-  <p>
-    Je m'appelle <b>Kenneth OUSSOU LIO</b>. Étudiant en <b>Cybersécurité, Réseaux & IA</b>, je suis un véritable passionné d'architecture réseau.
-  </p>
-  <p>
-    Ce que j'aime par-dessus tout ? Imaginer des topologies, connecter des systèmes entre eux et résoudre des casse-têtes techniques. Passer des heures sur Cisco Packet Tracer à concevoir des infrastructures est devenu une vraie seconde nature.
-  </p>
-  <p>
-    Mon objectif est simple : concevoir des réseaux d'entreprise performants, sûrs et résilients, pour évoluer sereinement vers le métier d'<b>Architecte Réseaux & Sécurité</b>.
-  </p>
-</div>
+---
+
+<!-- PRESENTATION -->
+
+Bonjour et bienvenue ! 👋
+
+Je m'appelle **Kenneth OUSSOU LIO**. Étudiant en **Cybersécurité, Réseaux & IA**, je suis un véritable passionné d'architecture réseau.
+
+Ce que j'aime par-dessus tout ? Imaginer des topologies, connecter des systèmes entre eux et résoudre des casse-têtes techniques. Passer des heures sur Cisco Packet Tracer à concevoir des infrastructures est devenu une vraie seconde nature.
+
+Mon objectif est simple : concevoir des réseaux d'entreprise performants, sûrs et résilients, pour évoluer sereinement vers le métier d'**Architecte Réseaux & Sécurité**.
+
+---
 
 <!-- ANIMATION ÉCHANGE DE PAQUETS RÉSEAU -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evertonSiqueira/evertonSiqueira/main/images/networking.gif" width="380" alt="Networking Data Exchange"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/021/811/352/original/line-animation.gif?1573038622" width="300" alt="Animation Réseau"/>
 </p>
 
 <br>
 
-<!-- TECH STACK UNIFORMISE -->
+<!-- TECH STACK -->
 <h3 align="center">🛠️ Technology Stack</h3>
 
 <p align="center">
@@ -54,13 +52,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sedagbe&layout=compact&theme=synthwave&hide_border=false" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sedagbe&theme=synthwave&hide_border=false" width="96%" />
-</p>
-
 <br>
 
-<!-- ME CONTACTER UNIFORMISÉ -->
+<!-- ME CONTACTER -->
 <h3 align="center">📬 Me contacter</h3>
 
 <p align="center">
