@@ -44,13 +44,7 @@ Mon objectif est simple : concevoir des réseaux d'entreprise performants, sûrs
 
 <br>
 
-<!-- STATISTIQUES GITHUB -->
-<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sedagbe&show_icons=true&theme=synthwave&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sedagbe&layout=compact&theme=synthwave&hide_border=false" width="48%" />
-</p>
 
 <br>
 
